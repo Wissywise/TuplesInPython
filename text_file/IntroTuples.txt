@@ -1,0 +1,6 @@
+
+person = ("John Wick", "July 10, 2000", "CA1467")
+
+print("Name:", person[0])
+print("Date of Birth:", person[1])
+print("ID:", person[2])
